@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Diyorbek Mamataliyev
-- 👀 I’m interested in desktop programming and .net
-- 🌱 I’m currently learning .net and desktop programming
+- 👀 I’m interested in .Net
 - 📫 How to reach me: http://t.me/Diyorbek_Mamataliyev
 - I'm student of NamSU
 
